@@ -1,7 +1,7 @@
 # PyPEG
 Cleanest Powered Explicit Guidance Law you can find. Currently only setup for two-stage ascent vehicle simulation.
 
-![image](./Example_1_Trajectory.png)
+![image](Example_1_Trajectory.png)
 
 
 ## References 
